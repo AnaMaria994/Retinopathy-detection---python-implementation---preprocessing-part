@@ -115,22 +115,3 @@ TBA
 
 ----------
 
-##  8. Autor și Mentor
-
-### Mentor
-
-Acest proiect a fost finalizat pentru materia Procesarea Imaginilor    **Universitatea Tehnică Gheorghe Asachi**, sub îndrumarea domnului  **Achirei Ștefan Daniel**, ș.l. dr.inginer.
-
-### Autor
-
-**Ana-Maria Panaite**  Calculatoare și Tehnologia Informației- Facultatea de Automatică și Calculatoare din Iași
-
--   **Email:**  ana-maria.panainte@student.tuiasi.ro	
-    
--   **LinkedIn:**  [https://www.linkedin.com/in/ana-maria-panaite]        
-**George Cătănescu**  Calculatoare și Tehnologia Informației- Facultatea de Automatică și Calculatoare din Iași
-
--   **Email:**  george.catanescu@student.tuiasi.ro	
-    
--   **LinkedIn:**  [https://www.linkedin.com/in/george-catanescu]
-----------
