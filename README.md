@@ -95,23 +95,4 @@ Dezvoltarea unui model automat de deep learning care să poată detecta și clas
 
 ----------
 
-##  6. Rezultate
-
-TBA
-
-----------
-
-##  7. Structura fișierelor
-
-```
-.
-├── DR.py                        # Scriptul principal Python cu implementarea ResNet-50
-├── trainLabels.csv             # Etichete adnotate pentru antrenare
-├── /Dataset/                   # Director cu imagini retiniene
-├── README.md                   # Acest fișier
-└── [Grafice suplimentare & artefacte ale modelului]
-
-```
-
-----------
 
